@@ -1,0 +1,8 @@
+{
+  "name": "marciorasf-first-pkg",
+  "version": "1.0.3",
+  "main": "index.js",
+  "repository": "git@github.com:marciorasf/first-yarn-pkg.git",
+  "author": "Marcio Souza Filho <marciorasf@gmail.com>",
+  "license": "MIT"
+}
